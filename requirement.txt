@@ -1,6 +1,0 @@
-'streamlit
-pandas
-numpy
-scikit-learn
-joblib
-imbalanced-learn' | Out-File requirements.txt
